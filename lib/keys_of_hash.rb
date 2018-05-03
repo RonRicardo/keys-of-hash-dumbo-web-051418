@@ -6,6 +6,5 @@ class Hash
         key if arguments.include?(value)
       end
       keys
-      binding.pry
   end
 end

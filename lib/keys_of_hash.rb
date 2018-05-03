@@ -3,6 +3,6 @@ class Hash
     keys = self.collect do |key, value|
         key
       end
+      keys
   end
-  keys
 end

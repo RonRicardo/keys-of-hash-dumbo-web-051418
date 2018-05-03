@@ -7,5 +7,6 @@ class Hash
         binding.pry
       end
       keys
+      binding.pry
   end
 end

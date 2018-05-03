@@ -4,4 +4,5 @@ class Hash
         key
       end
   end
+  keys
 end

@@ -5,6 +5,5 @@ class Hash
     keys = self.collect do |key, value|
         key if arguments.include?(value)
       end
-      keys
   end
 end
